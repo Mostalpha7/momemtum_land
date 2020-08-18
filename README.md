@@ -1,2 +1,2 @@
 # momemtum_land
-Momentum landing page
+Momentum App landing page designed with vuejs
